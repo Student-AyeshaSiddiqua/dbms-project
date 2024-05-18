@@ -1,2 +1,2 @@
 # dbms-project
-amazon clone
+Amazon Clone
